@@ -1,0 +1,11 @@
+/var/spool/slurm/d/job5299474/slurm_script: line 14: cd: /scratch/tidd.c/GPUClass18/FINPROJ/heq/: No such file or directory
++ ./heq input/bridge.png
+Image size: 1824x2736
+Padded image size: 1824x2736
+Kernel Execution Time: 0.008512 ms
+
+
+total is:4990464
+CPU execution time: 35.1134 ms
+GPU execution time: 46.9298 ms
+Percentage difference: 83.8895 %
